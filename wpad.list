@@ -1,0 +1,5 @@
+# WPAD blocklist
+# https://social.technet.microsoft.com/Forums/ie/en-US/15b98038-84fa-4828-a156-1440cd6ae7c4/how-to-resolve-wpaddomaincom-dns-queries
+0.0.0.0 wpad.jc1arke.co.za
+0.0.0.0 wpad.directpayonline.group
+0.0.0.0 wpad.paygate.co.za
